@@ -58,8 +58,4 @@ I’d love to hear your thoughts or feedback! Feel free to connect with me:
 - GitHub: https://github.com/GGFDRTX
 
 ---
-🛠️ How to Check It Out  
 
-1. Clone this repo:  
-   ```bash  
-   git clone https://github.com/your-username/your-repo-name.git  
